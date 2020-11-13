@@ -11,3 +11,12 @@ A quiz to test the knowledge of the coding student.
 ## Website
 https://designurhappy.github.io/Code-Quiz/
 
+## GitHub Respository
+https://github.com/designurhappy/Code-Quiz/
+
+
+## Questions
+* GitHub Username: designurhappy
+* GitHub Link: https://github.com/designurhappy
+* Email Address: beachgal0105@gmail.com
+* Contact Instructions: Please email me for additional questions or call me at (805) 990-9977
