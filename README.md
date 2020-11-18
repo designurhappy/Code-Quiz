@@ -14,6 +14,8 @@ https://designurhappy.github.io/Code-Quiz/
 ## GitHub Respository
 https://github.com/designurhappy/Code-Quiz/
 
+![ScreenShot](./client/src/assets/img/Code-Quiz.png)
+
 
 ## Questions
 * GitHub Username: designurhappy
